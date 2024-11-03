@@ -1,0 +1,7 @@
+{
+    "functions": {
+      "api/flask-api.py": {
+        "runtime": "python3.9"
+      }
+    }
+  }
