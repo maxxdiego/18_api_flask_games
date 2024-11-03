@@ -1,7 +1,15 @@
 {
-    "functions": {
-      "api/flask-api.py": {
-        "runtime": "python3.9"
-      }
+  "version": 2,
+  "builds": [
+    {
+      "src": "run.py",
+      "use": "@vercel/python"
     }
-  }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "run.py"
+    }
+  ]
+}
