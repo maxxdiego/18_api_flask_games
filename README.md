@@ -1,5 +1,7 @@
 # API Rest com Flask - The Games
 
+![NPM](https://img.shields.io/npm/l/react)
+
 ## Criar o ambiente virtual
 
 ```bash
@@ -106,3 +108,9 @@ _pip install pymongo[srv]: Esse comando instala a biblioteca principal do PyMong
 * pip install pymongo instala apenas o pacote básico.
 * pip install pymongo[srv] instala o pacote básico junto com dependências adicionais para suportar conexões com strings de conexão DNS SRV.
 * Se você está planejando se conectar a um cluster MongoDB usando uma string de conexão SRV (como as fornecidas pelo MongoDB Atlas), é recomendado usar pip install pymongo[srv].
+  
+
+# Autor
+
+Prof. Diego Max da Silva<br>
+https://lattes.cnpq.br/4370663836049458
