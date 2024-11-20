@@ -4,7 +4,7 @@
 
 ### Link da API hospedada no Vercel:
 <a href="https://api-flask-games.vercel.app/games">https://api-flask-games.vercel.app/games</a>
-<br>
+<br><br>
 
 ## Criar o ambiente virtual
 
