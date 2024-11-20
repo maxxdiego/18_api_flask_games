@@ -2,6 +2,9 @@
 
 ![NPM](https://img.shields.io/npm/l/react)
 
+### Link da API hospedada no Vercel:
+<a href="https://api-flask-games.vercel.app/games">https://api-flask-games.vercel.app/games</a>
+
 ## Criar o ambiente virtual
 
 ```bash
